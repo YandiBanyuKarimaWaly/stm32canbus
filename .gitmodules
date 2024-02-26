@@ -1,0 +1,3 @@
+[submodule "lib/nanocobs"]
+	path = lib/nanocobs
+	url = https://github.com/charlesnicholson/nanocobs.git
